@@ -3,7 +3,7 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js", pain´smusicbot
+  "main": "bot.js", painsmusicbot
   "scripts": {
     "start": "node bot.js"
   },
